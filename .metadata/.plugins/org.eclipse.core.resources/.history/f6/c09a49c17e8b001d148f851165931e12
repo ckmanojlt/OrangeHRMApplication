@@ -1,0 +1,44 @@
+package webtable;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class CFCD {
+	WebDriver driver;
+	
+	
+	public void applicationlaunch() {
+		
+	String applicationurladdress ="https://www.timeanddate.com/worldclock/"	;
+	
+		System.setProperty("webdriver.chrome.driver", "./driverfiles/chromedriver.exe");
+		driver =new ChromeDriver();
+		driver.get(applicationurladdress);
+		driver.manage().window().maximize();	
+	}
+	public void cfcd() {
+		
+		// /html/body/div[5]/section[1]/div/section/div[1]/div/table/tbody/tr[1]/td[1]/a
+		// /html/body/div[5]/section[1]/div/section/div[1]/div/table/tbody/tr[36]/td[1]/a
+	String xpathExpressonpatr1="/html/body/div[5]/section[1]/div/section/div[1]/div/table/tbody/tr[";
+	String xpathExpressionpart2="]/td[1]";
+	//by tablexpathL= By.xpath("")
+		
+		
+		
+		
+	}
+	
+	
+	
+	
+	
+	public static void main(String[] args) {
+		CFCD manoj = new CFCD();
+		manoj.applicationlaunch();
+		
+
+	}
+
+}

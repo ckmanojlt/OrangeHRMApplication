@@ -1,0 +1,50 @@
+2023-01-09 18:22:59,222 - OHRM_BaseTest -WARN - Login Page Inputs
+2023-01-09 18:23:02,328 - OHRM_BaseTest -WARN - HomePageValidation
+2023-01-09 18:32:44,381 - OHRM_BaseTest -INFO - [[ChromeDriver: chrome on WINDOWS (4bbd5cb9d05448d3d76f24566826cbdf)] -> id: txtUsername]
+2023-01-09 18:32:44,458 - OHRM_BaseTest -INFO - [[ChromeDriver: chrome on WINDOWS (4bbd5cb9d05448d3d76f24566826cbdf)] -> id: txtPassword]
+2023-01-09 18:34:00,943 - OHRM_BaseTest -INFO - [[ChromeDriver: chrome on WINDOWS (f0e2e9e9c05207025db7fcee8d1983da)] -> id: txtUsername]
+2023-01-09 18:34:01,081 - OHRM_BaseTest -INFO - [[ChromeDriver: chrome on WINDOWS (f0e2e9e9c05207025db7fcee8d1983da)] -> id: txtPassword]
+2023-01-09 18:36:17,434 - OHRM_BaseTest -INFO - UserName
+2023-01-09 18:36:17,555 - OHRM_BaseTest -INFO - [[ChromeDriver: chrome on WINDOWS (2e323d8df8cb47266478f81d9d1efb9d)] -> id: txtPassword]
+2023-01-09 18:40:09,887 - OHRM_BaseTest -INFO - UserName
+2023-01-09 18:40:11,915 - OHRM_BaseTest -INFO - Admin
+2023-01-09 18:40:11,916 - OHRM_BaseTest -ERROR - Admin
+2023-01-09 18:40:11,916 - OHRM_BaseTest -WARN - Admin
+2023-01-10 17:24:42,205 - OHRM_BaseTest -INFO - Admin
+2023-01-10 17:24:42,239 - OHRM_BaseTest -INFO - PIM
+2023-01-11 16:26:27,567 - radioButtons.RadioButtons_Automate -INFO - Milk true
+2023-01-11 16:26:27,643 - radioButtons.RadioButtons_Automate -INFO - Butter null
+2023-01-11 16:26:27,715 - radioButtons.RadioButtons_Automate -INFO - Cheese null
+2023-01-11 16:26:27,775 - radioButtons.RadioButtons_Automate -INFO - Water null
+2023-01-11 16:26:27,829 - radioButtons.RadioButtons_Automate -INFO - Beer null
+2023-01-11 16:26:27,909 - radioButtons.RadioButtons_Automate -INFO - Wine true
+2023-01-11 16:26:28,004 - radioButtons.RadioButtons_Automate -INFO - Milk null
+2023-01-11 16:26:28,061 - radioButtons.RadioButtons_Automate -INFO - Butter true
+2023-01-11 16:26:28,120 - radioButtons.RadioButtons_Automate -INFO - Cheese null
+2023-01-11 16:26:28,212 - radioButtons.RadioButtons_Automate -INFO - Water null
+2023-01-11 16:26:28,254 - radioButtons.RadioButtons_Automate -INFO - Beer null
+2023-01-11 16:26:28,307 - radioButtons.RadioButtons_Automate -INFO - Wine true
+2023-01-11 16:26:28,462 - radioButtons.RadioButtons_Automate -INFO - Milk null
+2023-01-11 16:26:28,511 - radioButtons.RadioButtons_Automate -INFO - Butter null
+2023-01-11 16:26:28,554 - radioButtons.RadioButtons_Automate -INFO - Cheese true
+2023-01-11 16:26:28,590 - radioButtons.RadioButtons_Automate -INFO - Water null
+2023-01-11 16:26:28,627 - radioButtons.RadioButtons_Automate -INFO - Beer null
+2023-01-11 16:26:28,661 - radioButtons.RadioButtons_Automate -INFO - Wine true
+2023-01-11 16:26:28,743 - radioButtons.RadioButtons_Automate -INFO - Milk null
+2023-01-11 16:26:28,777 - radioButtons.RadioButtons_Automate -INFO - Butter null
+2023-01-11 16:26:28,807 - radioButtons.RadioButtons_Automate -INFO - Cheese true
+2023-01-11 16:26:28,836 - radioButtons.RadioButtons_Automate -INFO - Water true
+2023-01-11 16:26:28,868 - radioButtons.RadioButtons_Automate -INFO - Beer null
+2023-01-11 16:26:28,898 - radioButtons.RadioButtons_Automate -INFO - Wine null
+2023-01-11 16:26:28,974 - radioButtons.RadioButtons_Automate -INFO - Milk null
+2023-01-11 16:26:29,003 - radioButtons.RadioButtons_Automate -INFO - Butter null
+2023-01-11 16:26:29,032 - radioButtons.RadioButtons_Automate -INFO - Cheese true
+2023-01-11 16:26:29,062 - radioButtons.RadioButtons_Automate -INFO - Water null
+2023-01-11 16:26:29,090 - radioButtons.RadioButtons_Automate -INFO - Beer true
+2023-01-11 16:26:29,121 - radioButtons.RadioButtons_Automate -INFO - Wine null
+2023-01-11 16:26:29,192 - radioButtons.RadioButtons_Automate -INFO - Milk null
+2023-01-11 16:26:29,223 - radioButtons.RadioButtons_Automate -INFO - Butter null
+2023-01-11 16:26:29,251 - radioButtons.RadioButtons_Automate -INFO - Cheese true
+2023-01-11 16:26:29,283 - radioButtons.RadioButtons_Automate -INFO - Water null
+2023-01-11 16:26:29,312 - radioButtons.RadioButtons_Automate -INFO - Beer null
+2023-01-11 16:26:29,341 - radioButtons.RadioButtons_Automate -INFO - Wine true

@@ -1,0 +1,50 @@
+[main] WARN OHRM_BaseTest - Login Page Inputs
+[main] WARN OHRM_BaseTest - HomePageValidation
+[main] INFO OHRM_BaseTest - [[ChromeDriver: chrome on WINDOWS (4bbd5cb9d05448d3d76f24566826cbdf)] -> id: txtUsername]
+[main] INFO OHRM_BaseTest - [[ChromeDriver: chrome on WINDOWS (4bbd5cb9d05448d3d76f24566826cbdf)] -> id: txtPassword]
+[main] INFO OHRM_BaseTest - [[ChromeDriver: chrome on WINDOWS (f0e2e9e9c05207025db7fcee8d1983da)] -> id: txtUsername]
+[main] INFO OHRM_BaseTest - [[ChromeDriver: chrome on WINDOWS (f0e2e9e9c05207025db7fcee8d1983da)] -> id: txtPassword]
+[main] INFO OHRM_BaseTest - UserName
+[main] INFO OHRM_BaseTest - [[ChromeDriver: chrome on WINDOWS (2e323d8df8cb47266478f81d9d1efb9d)] -> id: txtPassword]
+[main] INFO OHRM_BaseTest - UserName
+[main] INFO OHRM_BaseTest - Admin
+[main] ERROR OHRM_BaseTest - Admin
+[main] WARN OHRM_BaseTest - Admin
+[main] INFO OHRM_BaseTest - Admin
+[main] INFO OHRM_BaseTest - PIM
+[main] INFO radioButtons.RadioButtons_Automate - Milk true
+[main] INFO radioButtons.RadioButtons_Automate - Butter null
+[main] INFO radioButtons.RadioButtons_Automate - Cheese null
+[main] INFO radioButtons.RadioButtons_Automate - Water null
+[main] INFO radioButtons.RadioButtons_Automate - Beer null
+[main] INFO radioButtons.RadioButtons_Automate - Wine true
+[main] INFO radioButtons.RadioButtons_Automate - Milk null
+[main] INFO radioButtons.RadioButtons_Automate - Butter true
+[main] INFO radioButtons.RadioButtons_Automate - Cheese null
+[main] INFO radioButtons.RadioButtons_Automate - Water null
+[main] INFO radioButtons.RadioButtons_Automate - Beer null
+[main] INFO radioButtons.RadioButtons_Automate - Wine true
+[main] INFO radioButtons.RadioButtons_Automate - Milk null
+[main] INFO radioButtons.RadioButtons_Automate - Butter null
+[main] INFO radioButtons.RadioButtons_Automate - Cheese true
+[main] INFO radioButtons.RadioButtons_Automate - Water null
+[main] INFO radioButtons.RadioButtons_Automate - Beer null
+[main] INFO radioButtons.RadioButtons_Automate - Wine true
+[main] INFO radioButtons.RadioButtons_Automate - Milk null
+[main] INFO radioButtons.RadioButtons_Automate - Butter null
+[main] INFO radioButtons.RadioButtons_Automate - Cheese true
+[main] INFO radioButtons.RadioButtons_Automate - Water true
+[main] INFO radioButtons.RadioButtons_Automate - Beer null
+[main] INFO radioButtons.RadioButtons_Automate - Wine null
+[main] INFO radioButtons.RadioButtons_Automate - Milk null
+[main] INFO radioButtons.RadioButtons_Automate - Butter null
+[main] INFO radioButtons.RadioButtons_Automate - Cheese true
+[main] INFO radioButtons.RadioButtons_Automate - Water null
+[main] INFO radioButtons.RadioButtons_Automate - Beer true
+[main] INFO radioButtons.RadioButtons_Automate - Wine null
+[main] INFO radioButtons.RadioButtons_Automate - Milk null
+[main] INFO radioButtons.RadioButtons_Automate - Butter null
+[main] INFO radioButtons.RadioButtons_Automate - Cheese true
+[main] INFO radioButtons.RadioButtons_Automate - Water null
+[main] INFO radioButtons.RadioButtons_Automate - Beer null
+[main] INFO radioButtons.RadioButtons_Automate - Wine true
